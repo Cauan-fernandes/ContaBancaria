@@ -12,3 +12,4 @@
 /home/cauan/ContaBancaria/Conta_Bancaria/obj/Debug/net8.0/Conta_Bancaria.pdb
 /home/cauan/ContaBancaria/Conta_Bancaria/obj/Debug/net8.0/Conta_Bancaria.genruntimeconfig.cache
 /home/cauan/ContaBancaria/Conta_Bancaria/obj/Debug/net8.0/ref/Conta_Bancaria.dll
+/home/cauan/ContaBancaria/Conta_Bancaria/obj/Debug/net8.0/Conta_Bancaria.sourcelink.json
